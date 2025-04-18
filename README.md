@@ -1,0 +1,1 @@
+# splitmate-delete-data
